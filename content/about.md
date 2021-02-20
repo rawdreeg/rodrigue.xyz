@@ -61,20 +61,20 @@ seo:
 
 About Rodrigue
 
-Lead Developer @ Wunderman Thompson South Africa • 
+Lead Developer @ Wunderman Thompson South Africa •<br />
 Passionate about finding elegant solutions to difficult problems.
 
 ------
 
 Also involved with: 
 
-Friendly Eyes Foundations - https://friendlyeyes.com/
+Friendly Eyes Foundations - https://friendlyeyes.com/ <br />
 Handling backend, infrastructure and technical support.
 
 Current Projects:
 
-[Block Inactive Users](https://www.drupal.org/project/block_inactive_users) - Drupal Contrib Module
-[Onpage External Libraries ](https://www.drupal.org/project/onpage_external_libraries) - Drupal Contrib Module
+- [Block Inactive Users](https://www.drupal.org/project/block_inactive_users) - Drupal Contrib Module
+- [Onpage External Libraries ](https://www.drupal.org/project/onpage_external_libraries) - Drupal Contrib Module
 
 Connect with me: [Twitter](https://twitter.com/rawdreeg) - [Drupal.org](https://www.drupal.org/u/rawdreeg) - [LinkedIn](https://www.linkedin.com/in/rodriguetusse/)
 
