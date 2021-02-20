@@ -12,7 +12,7 @@ images: []
 
 tags: []
 categories: []
-featuredImage: ""
+featuredImage: "images/me.jpg"
 featuredImagePreview: ""
 
 hiddenFromHomePage: false
@@ -59,7 +59,13 @@ seo:
   # ...
 ---
 
-About Rodrigue
+**About Rodrigue**
+
+
+
+![](/images/me.png)
+
+
 
 Lead Developer @ Wunderman Thompson South Africa •<br />
 Passionate about finding elegant solutions to difficult problems.
