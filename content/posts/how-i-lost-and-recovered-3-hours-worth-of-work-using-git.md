@@ -39,7 +39,7 @@ share:
 
 ## How I lost and recovered 3 hours' worth of work using Git
 
-### Epilogue
+### Prologue
 
 So, imagine you sit down in front of your computer; you start a new project in your favourite editor, and you're flowing. Four hours later, you've ticked every item on your to-do list and it's time to commit and push your project to git. You add your files, commit and push. Go on the remote server and what? Half your files are not there. You go back to your local project; you check the head and nothing. Oh  sh.t! you say to yourself; the git ignore excluded a bunch of  files,  and some files that shouldn't have been committed were added. We'll fix it, you think to yourself. Delete the .gitignore, then `git  rm` the files to remove, then you've removed the wrong files. Oh  sh.t, again!. You decide to reset the branch to the origin: `git reset  --hard origin/master`. As soon as you type enter, you realise your uncommitted files are gone. Disappeared. Never to be found again. Oh  f#ck!
 
@@ -72,6 +72,8 @@ ls .git/lost-found
 cd .git/lost-found/other
 ls
 ```
+
+ls command output:
 
 ![files in lost-found](https://i.imgur.com/DqeR4Ks.jpeg)
   
