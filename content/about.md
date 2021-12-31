@@ -57,7 +57,14 @@ library:
 seo:
   images: []
   # ...
+
+comment:
+  enable: false
+  disqus:
+    enable: false
+  # ...
 ---
+
 
 **About Rodrigue**
 
@@ -67,7 +74,7 @@ seo:
 
 
 
-Lead Developer @ Wunderman Thompson South Africa •<br />
+I make things for the internet - Starting @ Automattic in Feb •<br />
 Passionate about finding elegant solutions to difficult problems.
 
 ------
@@ -79,8 +86,16 @@ Handling backend, infrastructure and technical support.
 
 Current Projects:
 
+** Drupal 8 **
 - [Block Inactive Users](https://www.drupal.org/project/block_inactive_users) - Drupal Contrib Module
 - [Onpage External Libraries ](https://www.drupal.org/project/onpage_external_libraries) - Drupal Contrib Module
+- [Azure Cognitive Services API](https://www.drupal.org/project/azure_cognitive_services_api) - Drupal Contrib Module
+- [Azure Computer Vision API](https://www.drupal.org/project/azure_vision_api) - Drupal Contrib Module
+- [Azure Text Analytics API](https://www.drupal.org/project/azure_text_analytics_api) - Drupal Contrib Module
+
+** Wordpress **
+- [woocommerce-stellr](https://github.com/rawdreeg/woocommerce-stellr) - Wordpress Plugin
+- [payfast-onsite-payment](https://github.com/jonomk07/payfast-onsite-payment) - Wordpress Plugin (co-author)
 
 Connect with me: [Twitter](https://twitter.com/rawdreeg) - [Drupal.org](https://www.drupal.org/u/rawdreeg) - [LinkedIn](https://www.linkedin.com/in/rodriguetusse/)
 

@@ -24,9 +24,6 @@ fontawesome: true
 linkToMarkdown: true
 rssFullText: false
 
-toc:
-  enable: true
-  auto: true
 code:
   copy: true
   # ...
