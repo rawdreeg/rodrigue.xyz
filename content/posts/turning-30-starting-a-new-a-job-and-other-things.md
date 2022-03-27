@@ -1,5 +1,5 @@
 ---
-title: "Turning 30, starting a new a job and other things"
+title: "Turning 30, starting a new job and other things"
 date: 2022-03-27T19:53:41+02:00
 draft: false
 tags: [Life, Career]
