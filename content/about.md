@@ -74,8 +74,8 @@ comment:
 
 
 
-I make things for the internet - Starting @ Automattic in Feb •<br />
-Passionate about finding elegant solutions to difficult problems.
+I make things for the internet - @ Automattic •<br />
+I ❤️ free software.
 
 ------
 
@@ -97,6 +97,6 @@ Current Projects:
 - [woocommerce-stellr](https://github.com/rawdreeg/woocommerce-stellr) - Wordpress Plugin
 - [payfast-onsite-payment](https://github.com/jonomk07/payfast-onsite-payment) - Wordpress Plugin (co-author)
 
-Connect with me: [Twitter](https://twitter.com/rawdreeg) - [Drupal.org](https://www.drupal.org/u/rawdreeg) - [LinkedIn](https://www.linkedin.com/in/rodriguetusse/)
+Connect with me: [Twitter](https://twitter.com/rawdreeg) - [Drupal.org](https://www.drupal.org/u/rawdreeg) - [LinkedIn](https://www.linkedin.com/in/rodriguetusse/) - [wp.org](https://profiles.wordpress.org/rawdreeg/)
 
 
