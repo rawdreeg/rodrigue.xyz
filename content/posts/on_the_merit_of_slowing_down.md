@@ -1,4 +1,3 @@
-
 ---
 title: "On the merit of slowing down"
 date: 2022-12-05T10:04:09+02:00
