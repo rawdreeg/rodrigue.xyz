@@ -19,4 +19,4 @@ Often life seems like a series of quests. We go after the things we want, get th
 ![](/images/mr_peanubutter_quote.jpg)
 
 
-I used to love this Mr. Peanut Butter quote from the hit Netflix animated series, [Bojack Horseman](https://en.wikipedia.org/wiki/BoJack_Horseman). But I am not as cynical as Mr. Peanut Butter anymore. The universe is not particularly cruel; it just is. And as for the search for meaning, that is mostly up to the individual. I think taking part in the human experience is meaningful enough -- love, grow and help others, do cool shits, and eventually, you'll be dead.
+I used to love this Mr. Peanut Butter quote from the hit Netflix animated series, [Bojack Horseman](https://en.wikipedia.org/wiki/BoJack_Horseman). But I am not as cynical as Mr. Peanut Butter anymore. The universe is not particularly cruel; it just is. And as for the search for meaning, that is mostly up to the individual. I think taking part in the human experience is meaningful enough -- love, grow and help others, do cool shit, and eventually, you'll be dead.
