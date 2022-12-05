@@ -9,9 +9,9 @@ So, I went to a meditation retreat in late November -- 1-hour daily meditation t
 
 Some of the things I learned that week:
 
-I learned that the world moves on regardless of whether I pay attention. 
-Once I removed the noises of self-doubt, worrying about future plans, and dissecting the past, I saw things more clearly. 
-Many of life's problems can be solved by taking some time off. Just stop, take a deep breath, and reset focus.
+- I learned that the world moves on regardless of whether I pay attention. 
+- Once I removed the noises of self-doubt, worrying about future plans, and dissecting the past, I saw things more clearly. 
+- Many of life's problems can be solved by taking some time off. Just stop, take a deep breath, and reset focus.
 
 Often life seems like a series of quests. We go after the things we want, get them, and then we want something else. And repeat. Never really stopping to reflect on achievements or failures, it feels like we're stuck in a hamster wheel -- going around and around, and eventually, we're dead. 
 
