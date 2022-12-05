@@ -5,7 +5,7 @@ tags: [Life]
 draft: false
 ---
 
-So, I went to a meditation retreat in late November -- 1-hour daily meditation twice a day, noble silence in the mornings, and no phone or electronics for a whole. Well, it was more like 4.5 days, but you get the idea. I had minimal expectations and an open mind coming into this. I expected it to be challenging, especially not having my phone. 
+So, I went to a meditation retreat in late November -- 1-hour daily meditation twice a day, [noble silence in the mornings](https://en.wikipedia.org/wiki/Noble_Silence#:~:text=Noble%20Silence%20is%20a%20term,asked%20the%20fourteen%20unanswerable%20questions.), and no phone or electronics for a whole week. Well, it was more like 4.5 days, but you get the idea. I had minimal expectations and an open mind coming into this. I expected it to be challenging, especially not having my phone. 
 
 Some of the things I learned that week:
 
@@ -15,6 +15,8 @@ Some of the things I learned that week:
 
 Often life seems like a series of quests. We go after the things we want, get them, and then we want something else. And repeat. Never really stopping to reflect on achievements or failures, it feels like we're stuck in a hamster wheel -- going around and around, and eventually, we're dead. 
 
+
 ![](/images/mr_peanubutter_quote.jpg)
 
-I used to love this Mr. Peanut Butter quote from the hit TV show, Bojack Horseman. But I am not as cynical as Mr. Peanut Butter anymore. The universe is not particularly cruel; it just is. And as for the search for meaning, that is mostly up to the individual. I think taking part in the human experience is meaningful enough -- love, grow and help others, do cool shits, and eventually, you'll be dead.
+
+I used to love this Mr. Peanut Butter quote from the hit Netflix animated series, [Bojack Horseman](https://en.wikipedia.org/wiki/BoJack_Horseman). But I am not as cynical as Mr. Peanut Butter anymore. The universe is not particularly cruel; it just is. And as for the search for meaning, that is mostly up to the individual. I think taking part in the human experience is meaningful enough -- love, grow and help others, do cool shits, and eventually, you'll be dead.
