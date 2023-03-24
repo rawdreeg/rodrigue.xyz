@@ -127,7 +127,7 @@ theme = "LoveIt"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page
-      subtitle = "I am Rodrigue Tusse. I make things for the internet.<br/> And here I blog about Drupal 8/9, PHP, Javascript and life."
+      subtitle = "I am Rodrigue Tusse. I make things for the internet.<br/> And here I blog about web development and life."
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
