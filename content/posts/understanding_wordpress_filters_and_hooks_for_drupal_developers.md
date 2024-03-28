@@ -49,13 +49,19 @@ add_filter('the_content', 'my_content_filter');
 Understanding when and how to use these hooks is crucial. Here's a simple guide:
 
 **Identify the Hook**: First, determine the appropriate hook that corresponds to the event or the data you want to interact with. A good resource to explore available hooks is the [WordPress Codex](https://codex.wordpress.org/Main_Page).
+
 **Create Your Function**: Define the function that will be called when the hook is executed. For Filters, ensure your function accepts a parameter (the data to be filtered) and returns it after modification.
+
 **Add Your Hook**: Use `add_action()` or `add_filter()` to register your function with the hook, specifying the hook name and your function name.
+
 ## Differences from Drupal
+
 While both systems provide powerful means for extending and customizing the functionality of the CMS without hacking core files, there are nuanced differences in their implementation and philosophy.
 
 **Hook Discovery**: Drupal's hook system relies on naming conventions to automatically discover and invoke hooks. WordPress requires explicit registration of hooks via `add_action()` or `add_filter()`.
+
 **Alter Hooks**: Drupal's alter hooks explicitly allow for data modification, closely resembling WordPress filters in purpose and functionality.
+
 **Execution Order**: Both systems allow for the control of execution order through priority parameters, but WordPress separates the concepts of actions (events) and filters (data modification) more distinctly.
 
 ## Conclusion
