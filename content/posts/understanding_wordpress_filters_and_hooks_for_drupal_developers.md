@@ -1,5 +1,5 @@
 ---
-title: "A Guide For Understanding WordPress Filters & Hooks: A Guide For Drupal Developers"
+title: "Understanding WordPress Filters & Hooks: A Guide For Drupal Developers"
 date: 2024-03-28T18:10:41+02:00
 draft: false
 tags: [Drupal, WordPress]
