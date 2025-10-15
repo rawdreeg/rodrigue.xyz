@@ -6,12 +6,12 @@ tags: [Life, Poem]
 categories: ["Poems"]
 ---
 
-When your mind cluttered, close your eyes and breathe
+When your mind is cluttered, close your eyes and breathe.
 
 Breathe when it's cold, when you can no longer bear
 
 The load on your back, the weight on your knee
 
-Close your eyes, just feel the air
+Close your eyes, feel the air.
 
-And remember you still have your breath
+And remember, you still have your breath
