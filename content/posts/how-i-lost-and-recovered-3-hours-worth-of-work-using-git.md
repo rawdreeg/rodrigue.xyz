@@ -11,7 +11,7 @@ featuredImagePreview: ""
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
-twemoji: false
+twemoji: falsez
 lightgallery: true
 ruby: true
 fraction: true
@@ -52,7 +52,7 @@ After spending some time trying to work out what was possible to recover the los
 
 One problem! If you guess the .gitignore  file, you were right. Because there was the .gitignore  file at the head ref, those files would not be recovered.
 
-### Step 2: If they  reflog  could recover  uncommitted files, then they had to be somewhere, right?
+### Step 2: If the  reflog  could recover  uncommitted files, then they had to be somewhere, right?
 
 As I went  through  one  stack overflow  post after the other, there seemed to be a consensus. The files were gone and could not be recovered. I tried many things and one of them was `git  fsck` — basically a utility command that "Verifies the connectivity and validity of the objects in the database" according to [the man page](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/git-fsck.html). I tested out [this answer](https://stackoverflow.com/a/7376959/2305403) on  stackoverflow, but the command `git  fsck  --cache  --unreachable $(git for-each-ref  --format="%(objectname)")` outputted  nothing and I quickly gave up on that trail — well, I shouldn't. I come back to that, but I could have saved 20 minute had I spent more time dissecting the answer.
 
