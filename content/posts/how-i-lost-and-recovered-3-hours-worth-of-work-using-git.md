@@ -60,7 +60,7 @@ At this point, I  have been looking for almost an hour, and I tell myself, I wil
 
 ### Step 3: The answer.
 
-To answer my last question, apparently many people. I kept looking on  stack overflow  then I found this [post](https://stackoverflow.com/questions/59706666/is-there-way-to-recover-files-ignored-via-gitignore-in-the-first-commit) that was not as popular has the other ones I looked, but one thing caught my eyes in the accepted [answer](https://stackoverflow.com/a/59707544/2305403) — another mention of `git  fsck`. I read the answer which essentially stated that running the command  ``git  fsck  --lost-found`` moved all unreferenced dangling blob to a directory in .git/lost-found. I executed the commands and checked the directory. There was a bunch of blobs named by hash  strings,  and I knew that those were my lost files. I just had to check them in an editor and rename them.
+To answer my last question, apparently many people. I kept looking on  stack overflow  then I found this [post](https://stackoverflow.com/questions/59706666/is-there-way-to-recover-files-ignored-via-gitignore-in-the-first-commit) that was not as popular as the other ones I looked, but one thing caught my eyes in the accepted [answer](https://stackoverflow.com/a/59707544/2305403) — another mention of `git  fsck`. I read the answer which essentially stated that running the command  ``git  fsck  --lost-found`` moved all unreferenced dangling blob to a directory in .git/lost-found. I executed the commands and checked the directory. There was a bunch of blobs named by hash  strings,  and I knew that those were my lost files. I just had to check them in an editor and rename them.
 
 ```
 git  fsck  --lost-found
