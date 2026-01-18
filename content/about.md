@@ -74,7 +74,7 @@ comment:
 
 
 
-I make things for the internet - @ Automattic •<br />
+I make things for the internet - @ [Jem HR](https://jemhr.com) • ex. WooCommerce Core Developer @ Automattic<br />
 I ❤️ free software.
 
 ------
@@ -89,9 +89,6 @@ Current Projects:
 ** Drupal 8 **
 - [Block Inactive Users](https://www.drupal.org/project/block_inactive_users) - Drupal Contrib Module
 - [Onpage External Libraries ](https://www.drupal.org/project/onpage_external_libraries) - Drupal Contrib Module
-- [Azure Cognitive Services API](https://www.drupal.org/project/azure_cognitive_services_api) - Drupal Contrib Module
-- [Azure Computer Vision API](https://www.drupal.org/project/azure_vision_api) - Drupal Contrib Module
-- [Azure Text Analytics API](https://www.drupal.org/project/azure_text_analytics_api) - Drupal Contrib Module
 
 ** Wordpress **
 - [woocommerce-stellr](https://github.com/rawdreeg/woocommerce-stellr) - Wordpress Plugin
