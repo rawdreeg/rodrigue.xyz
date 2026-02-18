@@ -1,5 +1,5 @@
 ---
-title: "Fix "Please free up some pty devices" on macOS"
+title: "Fix 'Please free up some pty devices' on macOS"
 date: 2026-02-18T10:40:35+02:00
 dscription: "Fix "Please free up some pty devices" on macOS"
 tags: [Tutorial, AI, Mac, Terminal, Tmux, Claude code, Oh My Claude]
